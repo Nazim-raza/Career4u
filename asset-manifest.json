@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Career4u/static/css/main.31d6cfe0.css",
+    "main.js": "/Career4u/static/js/main.450288b9.js",
+    "static/js/787.4c6efb9f.chunk.js": "/Career4u/static/js/787.4c6efb9f.chunk.js",
+    "index.html": "/Career4u/index.html",
+    "main.450288b9.js.map": "/Career4u/static/js/main.450288b9.js.map",
+    "787.4c6efb9f.chunk.js.map": "/Career4u/static/js/787.4c6efb9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.450288b9.js"
+  ]
+}
